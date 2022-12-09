@@ -15,7 +15,7 @@ E-mail: broni_ann@mail.ru
 
 https://github.com/Annabron91
 
-***a few words about me:***
+***A few words about me:***
 
 
 I received a higher engineering and economic education education in 2014, worked as an estimate engineer for about 8 years. Today in the conditions of our ultra-fast-changing world, I wanted to master a new, more relevant and profession of a front-end developer. Only I can change my life. I think I can do it.
@@ -30,6 +30,34 @@ Belarusian State Technological University, Faculty of Engineering and Economics
 
 HTML5, CSS3, JavaScript Basics, VS Code, Git and CitHub
 English: A2
+
+***Code examples:***
+
+function duplicateEncode (spase) {
+
+   return spase
+   
+   .toLowerCase()
+   
+   .split ("")
+   
+   .map( function (x, i, y){
+   
+   return y.indexOf(x) == y.lastIndexOf(x)? "(" : ")"
+   
+   })
+   
+   .join ("");
+   
+   }
+   
+   ***Completed project:***
+   
+   
+   https://Annabron91.github.io/rsschool-cv/cv
+   
+  
+
 
 
  \*P.S. Never stop dreaming. The future belongs to those, who believe in beauty of their dreams. Do not give up, the beginning is always the hardest.
